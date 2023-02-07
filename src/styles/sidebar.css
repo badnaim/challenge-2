@@ -1,0 +1,7 @@
+.sidebar {
+  width: 220px;
+  height: 100vh;
+  background-color: #e7e9eb;
+  overflow-y: scroll;
+  padding-top: 20px;
+}
